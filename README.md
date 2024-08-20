@@ -1,4 +1,15 @@
 # MT-AWS-VPC-Project
+
+## Objective
+
+The Objective of this project is to create a Virtual Private Cloud (VPC) with two subnets accompanied by additional components, including
+Internet Gateway (IGW)
+Network Address Translation (NAT)
+Route Tables
+Security Groups
+Network Access Control List (ACLs)
+
+
 ## Step 1: Create a VPC
 1.	From the VPC Dashboard in the AWS Management Console.
 2.	Click Create VPC.
@@ -6,6 +17,11 @@
 o	Name tag: MTVPC
 o	IPv4 CIDR block: 10.0.0.0/16
 4.	Click Create VPC.
+
+![Screenshot (69)](https://github.com/user-attachments/assets/e09fd658-61a6-4695-a354-a9b01bea6384)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/61afc26d-d5dd-4492-9048-4bb42d3e535d)
+
 ![Screenshot (1)](https://github.com/user-attachments/assets/aa116b7a-0f74-4a93-92b8-b408ac5b3025)
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/ae1f924c-e153-4337-869c-b225126d40ed)
